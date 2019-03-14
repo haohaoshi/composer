@@ -1,0 +1,14 @@
+{
+    "name": "haohaoshi/composer",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "lujz",
+            "email": "lujz@cnfol.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
